@@ -1,4 +1,4 @@
-#Projeto feito usando uma hora a cada semana, então não faço a minima ideia do que a maioria do codigo faz
+#Projeto feito usando uma hora a cada semana, então não faço a minima ideia do que certas parte do codigo fazem
 
 import time
 import random
